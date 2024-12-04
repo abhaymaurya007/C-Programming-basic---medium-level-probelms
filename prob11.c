@@ -9,5 +9,5 @@ void main(){
     float fahrenTem;
     printf("enter temprature in fahrentheit :");
     scanf("%f",&fahrenTem);
-    printf("%.2f faherenheit is %.2f Celsius.",fahrenTem,(fahrenTem-32)*(5.0/9.0));
+    printf("%.2f faherenheit becomes %.2f Celsius.",fahrenTem,(fahrenTem-32)*(5.0/9.0));
 }
